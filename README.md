@@ -1,3 +1,4 @@
+[![C/C++ CI](https://github.com/scorp1onscull/changecase/actions/workflows/autotest.yml/badge.svg)](https://github.com/scorp1onscull/changecase/actions/workflows/autotest.yml)
 # Конвертер регистров 
 
 Учебный проект.
@@ -19,4 +20,5 @@ changecase -key source_file destinstion_filename
 - "-U" нижний - ВЕРХНИЙ
 - "-G" ВЕРХНИЙ - нижний, нижний - ВЕРХНИЙ
 - "-T" первая буква - ВЕРХНИЙ, другие буквы - нижний
+
 
