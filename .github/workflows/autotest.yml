@@ -14,7 +14,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: Build
-      run: g++ changecase.cpp -o changecase
+      run: g++ openfile.cpp changecase.cpp -o changecase
     - name: Test
       run: |
             chmod u+x test.sh
